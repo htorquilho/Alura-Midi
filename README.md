@@ -1,6 +1,6 @@
 # 🎹 Alura MIDI
 
-Projeto desenvolvido durante o curso de JavaScript para Web da [Alura](https://www.alura.com.br/), com o objetivo de criar uma interface que simula uma bateria eletrônica. A aplicação permite reproduzir sons ao clicar nos botões na tela ou pressionar teclas do teclado associadas a cada instrumento.
+Projeto desenvolvido em um curso da Alura com o objetivo de criar uma interface que simula uma bateria eletrônica. A aplicação permite reproduzir sons ao clicar nos botões na tela ou pressionar teclas do teclado associadas a cada instrumento.
 
 ## 🚀 Funcionalidades
 
@@ -48,5 +48,6 @@ Alura-Midi/
 - Controlar reprodução de áudios na web.
 - Aplicar boas práticas de organização de arquivos front-end.
 
+## 📝 Licença
 
-📝 Este projeto foi desenvolvido com fins educacionais para praticar conceitos de desenvolvimento web.
+Este projeto foi desenvolvido com fins educacionais para praticar conceitos de desenvolvimento web.
